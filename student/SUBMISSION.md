@@ -4,10 +4,10 @@
 
 ## Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Link repo (fork):
+- Họ tên: Hoàng Trung Anh
+- MSSV: 2A202602521
+- Email: ht.anh00411@gmail.com
+- Link repo (fork): https://github.com/trungKoiKa/K4-Track4-Day23-HoangTrungAnh-2A202602521-Sensor-Fusion-Student
 - Commit hash nộp (`git rev-parse HEAD`):
 
 ## Tóm tắt kết quả
